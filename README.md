@@ -1,109 +1,142 @@
-<div align="center">
-  
-  <!-- Title Section with Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+Digital+Playground+🚀;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=yippee-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<!-- Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi there, I'm @yippee-dev
-</h1>
-
-<!-- Quick Info Section -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-## 💫 About Me
-```typescript
-const yippeeDev = {
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "FastAPI"],
-        },
-        databases: ["MongoDB", "PostgreSQL"],
-        devOps: ["AWS", "Docker", "Nginx"],
-        tools: ["Git", "Postman", "Docker"]
-    },
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+```
+ █████╗  ██████╗████████╗██╗██╗   ██╗███████╗    ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝╚══██╔══╝██║██║   ██║██╔════╝    ██╔══██╗██╔════╝██║   ██║
+███████║██║        ██║   ██║██║   ██║█████╗      ██║  ██║█████╗  ██║   ██║
+██╔══██║██║        ██║   ██║╚██╗ ██╔╝██╔══╝      ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║  ██║╚██████╗   ██║   ██║ ╚████╔╝ ███████╗    ██████╔╝███████╗ ╚████╔╝ 
+╚═╝  ╚═╝ ╚═════╝   ╚═╝   ╚═╝  ╚═══╝  ╚══════╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-<!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yippee-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=INITIALIZING+DEVELOPER+PROFILE...;SYSTEM+READY)](https://git.io/typing-svg)
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM SPECIFICATIONS                              ║
+╠═══════════════════════════════════════════════════════════════════════════╣
+║ DEVELOPER     : yippee-dev                                               ║
+║ UPTIME        : SINCE 2025                                               ║
+║ STATUS        : 200 OK - ACTIVELY CODING                                 ║
+║ LOCATION      : /Earth/Dev/Environment                                   ║
+║ LAST_UPDATE   : 2025-06-30 21:22:49 UTC                                 ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
+<br>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yippee-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yippee-dev&theme=radical"/>
+  
+```js
+class Developer {
+  constructor() {
+    this.name = "yippee-dev";
+    this.role = "Full Stack Developer";
+    this.language_spoken = ["en_US", "id_ID"];
+    this.code = [
+      "JavaScript", "TypeScript",
+      "Python", "Go", "Java"
+    ];
+    this.currentFocus = "Building Digital Solutions";
+  }
+
+  sayHi() {
+    console.log("Thanks for dropping by!");
+  }
+}
+
+const me = new Developer();
+me.sayHi();
+```
+
 </div>
 
-## 🚀 Featured Projects
-
+<!-- Stats Section with ASCII Borders -->
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                               SYSTEM METRICS                                  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 <div align="center">
-  <a href="https://github.com/yippee-dev/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yippee-dev&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yippee-dev/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yippee-dev&repo=project2&theme=radical" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yippee-dev&show_icons=true&theme=graywhite&bg_color=00000000&hide_border=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=yippee-dev&theme=graywhite&background=00000000&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
 </div>
 
-## 🛠️ My Favorite Tools
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                            SKILL CONFIGURATION                               │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-<!-- Tools Grid -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,postgres,mongodb,docker,aws,git" />
+  
+```
+FRONT-END       BACK-END        DATABASE       TOOLS
+┌────────────┐  ┌────────────┐  ┌──────────┐  ┌────────────┐
+│ ⚡ React    │  │ ⚡ Node.js  │  │ ⚡ MySQL  │  │ ⚡ Git      │
+│ ⚡ Vue.js   │  │ ⚡ Express  │  │ ⚡ Mongo  │  │ ⚡ Docker   │
+│ ⚡ Next.js  │  │ ⚡ Django   │  │ ⚡ Redis  │  │ ⚡ AWS      │
+└────────────┘  └────────────┘  └──────────┘  └────────────┘
+```
+
 </div>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yippee-dev&theme=react-dark&hide_border=true" width="100%"/>
-
-## 🌐 Connect With Me
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           CURRENT PROCESSES                                  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/[your-twitter]">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/[your-dev-to]">
-    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?logo=dev.to&logoColor=white" alt="Dev.to"/>
-  </a>
+
+[![Currently Working On](https://github-readme-stats.vercel.app/api/pin/?username=yippee-dev&repo=project1&theme=dark&bg_color=00000000&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)](https://github.com/yippee-dev/project1)
+
 </div>
 
-<!-- GitHub Snake Animation -->
+<!-- ASCII Art Progress Bar -->
+```
+LOADING NEXT PROJECT...
+[█████████████████████████████░░░░░] 85%
+```
+
+<!-- Live Coding Activity -->
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           ACTIVITY MONITOR                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-  <img src="https://github.com/yippee-dev/yippee-dev/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yippee-dev&custom_title=System%20Activity%20Monitor&bg_color=00000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%">
 </div>
 
-<!-- Support Section -->
+<!-- Connection Ports -->
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                           AVAILABLE PORTS                                    │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-  <h3>💖 Support My Work</h3>
-  <a href="https://www.buymeacoffee.com/[your-username]">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/PORT:1194_(LinkedIn)-%23ffffff.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/username)
+[![Twitter](https://img.shields.io/badge/PORT:1195_(Twitter)-%23ffffff.svg?style=for-the-badge&logo=twitter&logoColor=black)](https://twitter.com/username)
+[![Email](https://img.shields.io/badge/PORT:1196_(Email)-%23ffffff.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:email@example.com)
+
 </div>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<!-- Terminal Style Footer -->
+```bash
+# Thanks for visiting my profile! Here's a cookie 🍪
+
+Last login: Mon Jun 30 21:22:49 2025 from visitor@github.com
+visitor@github:~$ echo "Goodbye! 👋"
+Goodbye! 👋
+visitor@github:~$ exit
+```
 
 <div align="center">
-  <sub>Last Updated: 2025-06-30 21:18:41 UTC</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0,0&height=100&section=footer&animation=fadeIn" width="100%">
 </div>
